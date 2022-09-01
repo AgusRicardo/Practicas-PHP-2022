@@ -1,0 +1,10 @@
+203.
+Realizar una función lógica que determine si una matriz numérica de N filas por N columnas
+es una matriz unidad (es aquella que tiene los elementos de la diagonal principal igual a 1 y
+el resto de los elementos iguales a 0). 
+
+253.
+Elaborar un programa que permita leer una medida (N) en número de metros, y que
+imprima una tabla de equivalencias a yardas, pulgadas y pies; desde 1 metro hasta N
+metros de uno en uno. Equivalencias: 1 pie = 12 pulgadas, 1 yarda = 3 pies, 1 pulgada =
+2,54 cm, 1 metro = 100 cm. 
